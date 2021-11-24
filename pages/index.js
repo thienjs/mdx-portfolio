@@ -20,6 +20,8 @@ export default function HomePage({ posts }) {
           All Posts
         </a>
       </Link>
+
+      <h1 className='text-5xl border-b-4 p-5 font-bold'>Projects</h1>
     </Layout>
   )
 }
